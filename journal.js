@@ -1,0 +1,14 @@
+console.log("i woked up at 6:30 am");
+console.log("i brushed my teeth");
+console.log("i watched tv for 45 minutes");
+console.log("i ate breakfast");
+console.log("i had my class at 10:00 am");
+console.log("i went to play with my friends");
+console.log("i ate lunch at 1:00 pm");
+console.log("i watched tv for 45 minutes");
+console.log("i went to play with my friends");
+console.log("i had a swimming class at 4:00 pm");
+console.log("i showered");
+console.log("i went to play with my friends");
+console.log("i ate dinner at 8:00 pm");
+console.log("i went to sleep at 10:00 pm");
