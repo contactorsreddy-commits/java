@@ -6,3 +6,4 @@ console.log("substring "+text.substring(2));
 console.log("substring "+text.substring(2,8));
 console.log("index of"+text.indexOf("e"));
 console.log("index of"+text.indexOf("f"));
+var choice = 1();
