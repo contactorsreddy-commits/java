@@ -1,0 +1,9 @@
+let character = {};
+character.name = "Goku";
+character.age = 40;
+character.superpower = "Super Saiyan";
+character.description = "Goku is a Saiyan warrior who protects earth from various threats. He is known for his incredible strength.";
+console.log("Character Name is = ", character.name);
+console.log("Character Age is = ", character.age);
+console.log("Character Superpower is = ", character.superpower);
+console.log("Character Description is = ", character.description);
